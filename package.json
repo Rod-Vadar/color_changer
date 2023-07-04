@@ -10,7 +10,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "predploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -37,5 +37,19 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rod-Vadar/color_changer.git"
+  },
+  "keywords": [
+    "rgb"
+  ],
+  "author": "Roderick Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rod-Vadar/color_changer/issues"
   }
 }
