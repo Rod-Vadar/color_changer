@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color_changer/static/css/main.c725f942.css",
+    "main.js": "/color_changer/static/js/main.38efc28d.js",
+    "index.html": "/color_changer/index.html",
+    "main.c725f942.css.map": "/color_changer/static/css/main.c725f942.css.map",
+    "main.38efc28d.js.map": "/color_changer/static/js/main.38efc28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c725f942.css",
+    "static/js/main.38efc28d.js"
+  ]
+}
